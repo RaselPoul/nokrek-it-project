@@ -1,0 +1,24 @@
+
+@media all and (max-width: 575px){about-bottom-right{
+
+    width: 100% !important;
+}
+}
+
+@media all and (max-width: 768px){about-bottom-right{
+    
+    width: 50%;
+}
+}
+
+@media all and (max-width: 992px){about-bottom-right{
+    
+    width: 70%;
+}
+}
+
+@media all and (max-width: 1200px){about-bottom-right{
+    
+    width: 90%;
+}
+}

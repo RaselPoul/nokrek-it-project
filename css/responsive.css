@@ -1,0 +1,31 @@
+
+@media all and (max-width: 575px){hero-left-content{
+
+    width: 100% !important;
+    overflow: none;
+    margin: 0px auto;
+}
+.hreo-right{
+    width: 100%;
+    overflow: none;
+    margin: 0px auto;
+}
+}
+
+@media all and (max-width: 768px){body{
+    
+    width: 50%;
+}
+}
+
+@media all and (max-width: 992px){body{
+    
+    width: 70%;
+}
+}
+
+@media all and (max-width: 1200px){body{
+    
+    width: 90%;
+}
+}
